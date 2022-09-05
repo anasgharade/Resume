@@ -1,0 +1,22 @@
+body{
+    background-color: 	#FDF5E6;
+}
+hr{
+    border-color: rgb(80, 76, 76); 
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    
+}
+.sub{
+    cursor: pointer;
+    
+}
+.sub:hover{
+    background-color: rgb(112, 107, 107);
+   color: white;
+}
+h1,h3{
+    color:	#000000 ;
+}
